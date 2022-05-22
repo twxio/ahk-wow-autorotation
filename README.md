@@ -2,7 +2,7 @@
 
 In WoW it's all about button mashing.  The faster, the better your DPS is going to be.  I wanted to be able to bring to WoW what I had made for Diablo II, an automated clicker to release me mentally from the repitition of combat.
 
-This isn't a bot, so it won't be as efficient, but it's pretty darn close.  And I don't think it will get you banned, bc it's not doing anything other than mashing your keys.  Most of the magic here is how to setup your game so button mashing works.
+This isn't a bot, so it won't be as efficient, but it's pretty darn close.  And I don't think it will get you banned, bc it's not doing anything other than mashing your keys.  Most of the magic here is how to setup your game so it works.
 
 ## How It Works
 
@@ -44,3 +44,7 @@ This is where the magic happens.  You want to place your spells on keys 7-12 on 
 - Some spells, when clicked, will automatically target the nearest enemy and cast that spell on them.  It's weird in the game what spells will do this and what spells won't.  Whenever this happens, you have to wrap that spell in a macro with ``/stopmacro [noharm] [harm, dead]`` at the top.
 
 - Some spells don't have a cooldown, but you don't want to cast them every second.  An example might be a Hunter DoT or a Warrior bleed.  You either have to add the spell to a macro with a castsequence, or you just need to apply it manually w/ buttons 1-6 and leave it out of automatic rotation.
+
+## Credits
+
+- Sound pack by [ErrorSoundsBeGone](https://www.curseforge.com/wow/addons/project-8021)
