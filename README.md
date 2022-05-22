@@ -6,9 +6,11 @@ This isn't a bot, so it won't be as efficient, but it's pretty darn close.  And 
 
 ## How It Works
 
-The AHK script is going to press buttons 7 thru 12 multiple times a second.  It's going to press them in that order -- 7, 8, 9, 10, 11, 12 -- over and over and over indefinitly.
+The AHK script is going to press buttons F7 thru F12 multiple times a second.  It's going to press them in that order -- F7, F8, F9, F10, F11, F12 -- over and over and over indefinitly.
 
-The trick is to change your game to make this process unnoticable to the player, so there are no error messages, no spell fizzle sounds, no auto-targeting of mobs, nothing unusual.
+You can bind spells to those F keys, in any order you want.  Normally, pressing keys randomly would cause all sorts of error messages and failure sounds, it would be a mess.
+
+The trick is to change your game to make these keypresses unnoticable to you, so there are no error messages, no spell fizzle sounds, no auto-targeting of mobs, nothing unusual.
 
 It's just that when you do target a mob, and you are within attack range, you are going to unleash hell on them in a fully automated way.
 
