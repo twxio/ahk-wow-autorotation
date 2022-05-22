@@ -1,6 +1,6 @@
-# Rotation
+# AutoRotation
 
-In WoW it's all about button mashing.  The faster, the better your DPS is going to be.  I wanted to be able to bring to WoW what I had made for Diablo II, an automated clicker to release me mentally from the repitition of combat.
+In World of Warcraft it's all about button mashing.  The faster, the better your DPS is going to be.  I wanted to be able to bring to WoW what I had made for Diablo II, an automated clicker to release me mentally from the repitition of combat.
 
 This isn't a bot, so it won't be as efficient, but it's pretty darn close.  And I don't think it will get you banned, bc it's not doing anything other than mashing your keys.  Most of the magic here is how to setup your game so it works.
 
@@ -19,12 +19,12 @@ It's just that when you do target a mob, and you are within attack range, you ar
 This is a multi-step process:
 
 - Install [AutoHotKey](http://autohotkey.com/)
-- Download this repository
+- Download this [zipfile](https://github.com/whipowill/ahk-autorotation/archive/master.zip)
 - Install the sound files
-	- Will silence all fizzle spell sounds
+	- This will silence all fizzle spell sounds
 - Disable error speech in sound settings
 - Modify your keybinds
-	- Set F1-12 as secondary binds for 1-12
+	- Set F1-12 as secondary binds for action buttons 1-12
 - Add the ``AutoAttack`` macro
 
 ```
@@ -35,10 +35,10 @@ This is a multi-step process:
 
 - Place your spells in the right order
 
-This is where the magic happens.  You want to place your spells on keys 7-12 on the action bar, with 7 being the highest priority and 12 being the lowest priority.  The AutoAttack macro you made has to be one of them, and probably belongs in spot 12.  Keys 1-6 are not touched.
+This is where the magic happens.  You want to place your spells on keys 7-12 on the action bar, with 7 being the highest priority and 12 being the lowest priority.  The ``AutoAttack`` macro you made has to be one of them, and probably belongs in spot 12.  Keys 1-6 aren't used by the script.
 
 - Run the AHK script
-- Press mouse button 2 (on the side) to activate the script
+- Press mouse button 2 (on the side) to activate/deactivate the script
 - Target a mob, see what happens
 
 ## Issues
