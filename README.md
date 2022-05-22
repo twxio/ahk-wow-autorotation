@@ -1,6 +1,6 @@
 # AutoRotation
 
-In World of Warcraft it's all about button mashing.  The faster, the better your DPS is going to be.  I wanted to be able to bring to WoW what I had made for Diablo II, an automated clicker to release me mentally from the repitition of combat.
+In World of Warcraft it's all about button mashing.  The faster, the better.  I wanted to be able to bring to WoW what I had made for Diablo II, an automated clicker to release me mentally from the repitition of combat.
 
 This isn't a bot, so it won't be as efficient, but it's pretty darn close.  And I don't think it will get you banned, bc it's not doing anything other than mashing your keys.  Most of the magic here is how to setup your game so it works.
 
