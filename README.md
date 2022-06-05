@@ -69,7 +69,7 @@ An example ``Timed`` macro looks like this:
 /castsequence reset=0 Judgement of Wisdom
 ```
 
-This ``castsequence`` trick is key as it allows you to trick the game into always casting that ability when it's available.  Blizzard went to great lengths to prevent automation in macros over the years, and in WOTLK this is one that slipped their notice.  I learned about this technique on a pserver post [post](https://forum.warmane.com/showthread.php?t=382668&page=4).  Just be sure to put your highest priority skill on bottom.
+This ``castsequence`` trick is key as it allows you to trick the game into always casting that ability when it's available.  Blizzard went to great lengths to prevent automation in macros over the years, and in WOTLK this is one that slipped their notice.  I learned about this technique on a pserver forum [post](https://forum.warmane.com/showthread.php?t=382668&page=4).
 
 An example ``Untimed`` macro looks like this:
 ```
